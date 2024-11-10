@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/edwin/mi_proyecto_apache/web","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/edwin/mi_proyecto_apache","disabled":false,"__vagrantfile":true}}}
